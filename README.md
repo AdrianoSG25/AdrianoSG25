@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Olá! Sou o Adriano Goulart 👋</h2>
+  <h2>Olá! Sou o Adriano de Souza Goulart 👋</h2>
   <p><em>Estudante de Engenharia de Computação | Foco em Hardware & Infraestrutura</em></p>
 </div>
 
